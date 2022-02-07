@@ -6,7 +6,7 @@ for(int i=1;i<5;i++)
 System.out.println("code builded successfully .."+ i);
 }
 System.out.println("edited by santos");
-System.out.println("just for checkin for test");
+System.out.println("just checkin for test");
 
 }
 }
